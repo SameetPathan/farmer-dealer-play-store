@@ -12,10 +12,10 @@ function Home() {
         <span className='text-white' style={{fontSize:"20px"}}>AgroDeal</span>  
         </div>
         <div class="card-body">
-          <h5 class="card-title">Download You Android .apk file here and install <span><div class="blink">Download Available Soon</div>
+          <h5 class="card-title">Download You Android .apk file here and install <span><div class="blink">Download Available</div>
 </span></h5>
-         { /*<a href="https://drive.google.com/uc?export=download&id=" class="btn btn-primary">Download</a>*/}
-         <a href="/" class="btn btn-primary">Download</a>
+         <a href="https://drive.google.com/uc?export=download&id=1hKiHVIVgOqLTJokffwXUW4ly38fXY9zC" class="btn btn-primary">Download</a>
+   
 
         </div>
         <div class="card-footer text-muted">
