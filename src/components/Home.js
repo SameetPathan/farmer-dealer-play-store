@@ -14,12 +14,12 @@ function Home() {
         <div class="card-body">
           <h5 class="card-title">Download You Android .apk file here and install <span><div class="blink">Download Available</div>
 </span></h5>
-         <a href="https://drive.google.com/uc?export=download&id=1hKiHVIVgOqLTJokffwXUW4ly38fXY9zC" class="btn btn-primary">Download</a>
+         <a href="https://drive.google.com/uc?export=download&id=1kTDfE4Wz-q8xpqUzCd2I4REgwrXoxGaz" class="btn btn-primary">Download</a>
    
 
         </div>
         <div class="card-footer text-muted">
-         Updated on 05/04/2023        </div>
+         Updated on 14/04/2023        </div>
       </div>
       </div>
 
