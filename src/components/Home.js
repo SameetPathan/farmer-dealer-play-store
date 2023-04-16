@@ -14,7 +14,7 @@ function Home() {
         <div class="card-body">
           <h5 class="card-title">Download You Android .apk file here and install <span><div class="blink">Download Available</div>
 </span></h5>
-         <a href="https://drive.google.com/uc?export=download&id=1yLzlRJlE1JGLNw7yXYiAB2bthlIAB47Z" class="btn btn-primary">Download</a>
+         <a href="https://drive.google.com/uc?export=download&id=1QUd4SIHCP_SfpSchz2j1udWsNJY-0g1d" class="btn btn-primary">Download</a>
    
 
         </div>
